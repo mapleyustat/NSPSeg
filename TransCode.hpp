@@ -6,7 +6,7 @@
 #define CPPJIEBA_TRANSCODE_H
 
 
-#include "utilities/str_functs.hpp"
+#include "utility/str_functs.hpp"
 
 namespace CppJieba
 {
